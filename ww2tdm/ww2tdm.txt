@@ -1,0 +1,12 @@
+"ww2tdm"
+{
+    "base"	"sandbox"
+    "title"  "World War II Frontlines"
+    "version"   "1.0.0"
+    "menusystem"	"1"
+    "category" "pvp"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
